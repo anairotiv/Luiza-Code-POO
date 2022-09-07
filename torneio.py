@@ -32,5 +32,3 @@ class Torneio:
 #torneio 1; ovo de ouro
 # torneio 2; lago
 # torneio 3, labirinto
-
-
