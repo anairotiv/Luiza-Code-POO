@@ -26,6 +26,8 @@ print('Pontuação =>', points_house)
 print(f"a cor da casa é", hufflepuff.color)
 
 
+#metodo privado não acessa pela classe.
+
 #Griffinory = HogwartsHouse ("Grifinória",
                           # "vermelho e amarelo",
                           #  "Godric Grifindor",
